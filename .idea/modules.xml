@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Djangoexp/.idea/Djangoexp.iml" filepath="$PROJECT_DIR$/../Djangoexp/.idea/Djangoexp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Djangopy.iml" filepath="$PROJECT_DIR$/.idea/Djangopy.iml" />
+    </modules>
+  </component>
+</project>
